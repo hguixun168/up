@@ -1,60 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 
 <plist version="1.0">
 
 <dict>
 
-   <key>items</key>
+<key>items</key>
 
-   <array>
+<array>
 
-       <dict>
+<dict>
 
-           <key>assets</key>
+<key>assets</key>
 
-           <array>
+<array>
 
-               <dict>
+<dict>
 
-                   <key>kind</key>
+<key>kind</key>
 
-                   <string>software-package</string>
+<string>software-package</string>
 
-                   <key>url</key>
+<key>url</key>
 
-                   <string>https://download.485a0h.com/app.ipa</string>
-
-               </dict>
-
-           </array><key>metadata</key>
-
-           <dict>
-
-               <key>bundle-identifier</key>
-
-               <string>com.lottery.lianlianzhong</string>
-
-               <key>bundle-version</key>
-
-               <string>1.44</string>
-
-               <key>kind</key>
-
-               <string>software</string>
-
-               <key>subtitle</key>
-
-               <string>我的app</string>
-
-               <key>title</key>
-
-               <span style="font-family: Arial, Helvetica, sans-serif;"><string>连连中</string></span>
-
-           </dict>
-
-       </dict>
-
-   </array>
+<string>https://download.485a0h.com/llz0105-resigned.ipa</string>
 
 </dict>
+
+<dict>
+
+<key>kind</key>
+
+<string>display-image</string>
+
+<key>url</key>
+
+<string>https://download.485a0h.com/llz0105-resigned.ipa</string>
+
+</dict>
+
+<dict>
+
+<key>kind</key>
+
+<string>full-size-image</string>
+
+<key>url</key>
+
+<string>https://download.485a0h.com/llz0105-resigned.ipa</string>
+
+</dict>
+
+</array>
+
+<key>metadata</key>
+
+<dict>
+
+<key>bundle-identifier</key>
+
+<string>com.lottery.lianlianzhong</string>
+
+<key>bundle-version</key>
+
+<string>1.4</string>
+
+<key>kind</key>
+
+<string>software</string>
+
+<key>title</key>
+
+<string>连连中</string>
+
+</dict>
+
+</dict>
+
+</array>
+
+</dict>
+
 </plist>
